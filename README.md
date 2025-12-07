@@ -1,5 +1,5 @@
 ## 📘 About the Project
-This project was created as a beginner-friendly React + TypeScript dashboard to practice working with components, state, filtering, and basic data visualization. It simulates a retail environment where users can view product inventory, check low stock alerts, and see recent sales trends in a simple, clean interface.
+This project was created a React + TypeScript dashboard to practice working with components, state, filtering, and basic data visualization. It simulates a retail environment where users can view product inventory, check low stock alerts, and see recent sales trends in a simple, clean interface.
 ## 🎯 Learning Goals
 - Strengthen understanding of React fundamentals  
 - Practice working with TypeScript interfaces and props  
